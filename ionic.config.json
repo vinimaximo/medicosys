@@ -1,0 +1,7 @@
+{
+  "name": "medicosys",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
